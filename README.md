@@ -189,30 +189,6 @@ This project has a good extensibility to refine in the following areas to give a
 — implement machine learning tools for prediction
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Disclaimer: Investors should note that investment involves risks (including the possibility of loss of the capital invested), prices of securities / fund units may go up as well as down and past performance information presented is not indicative of future performance. 
 
 
