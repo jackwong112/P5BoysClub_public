@@ -1,5 +1,5 @@
 # P5BoysClub_public
-Business cycle and asset allocation --The performance of gold, stock, exchange rate and bond against GDP growth rate and inflation rate of Hong Kong in the past 10 years
+Topic: Business cycle and asset allocation --The performance of gold, stock, exchange rate and bond against GDP growth rate and inflation rate of Hong Kong in the past 10 years
 
 Introduction
 
@@ -63,9 +63,9 @@ Observation:
 
 	GDP 	Inflation 	Expected Gold Price	Actual Gold Price
 Phase 1	falling	falling 	increasing/decreasing	increasing 
-Phase 2	rising	falling	decreasing	increasing
-Phase 3	rising	rising	decreasing/increasing	decreasing
-Phase 4	falling	rising	increasing	mild increasing
+Phase 2	rising	falling	        decreasing	        increasing
+Phase 3	rising	rising	        decreasing/increasing	decreasing
+Phase 4	falling	rising	        increasing	        mild increasing
 
  
 
@@ -83,11 +83,11 @@ High inflation has historically correlated with lower returns on equities.
 
 Observation:
 
-	GDP 	Inflation 	Expected HSI	Actual HSI
+	GDP 	Inflation 	Expected HSI	        Actual HSI
 Phase 1	falling	falling 	decreasing/increasing	decreasing 
-Phase 2	rising	falling	increasing	increasing
-Phase 3	rising	rising	increasing/decreasing	increasing
-Phase 4	falling	rising	decreasing	decreasing
+Phase 2	rising	falling	        increasing	        increasing
+Phase 3	rising	rising	        increasing/decreasing	increasing
+Phase 4	falling	rising	        decreasing	        decreasing
 
  
 
@@ -109,9 +109,9 @@ Observation:
 
 	GDP 	Inflation 	Expected USD/HKD	Actual USD/HKD
 Phase 1	falling	falling 	decreasing/increasing	mild decreasing 
-Phase 2	rising	falling	increasing	staying stable
-Phase 3	rising	rising	increasing/decreasing	staying stable
-Phase 4	falling	rising	decreasing	mild increasing
+Phase 2	rising	falling	        increasing	        staying stable
+Phase 3	rising	rising	        increasing/decreasing	staying stable
+Phase 4	falling	rising	        decreasing	        mild increasing
 
 
 
@@ -131,9 +131,9 @@ Observation:
 
 	GDP 	Inflation 	Expected bond yield	Actual bond yield
 Phase 1	falling	falling 	increasing/decreasing	mild decreasing 
-Phase 2	rising	falling	decreasing	staying stable
-Phase 3	rising	rising	decreasing/increasing	mild increasing
-Phase 4	falling	rising	increasing	increasing
+Phase 2	rising	falling	        decreasing	        staying stable
+Phase 3	rising	rising	        decreasing/increasing	mild increasing
+Phase 4	falling	rising	        increasing	        increasing
 
 
 
@@ -141,7 +141,6 @@ Phase 4	falling	rising	increasing	increasing
 Correlations by heatmap diagrams
 
 
- 
 
 From the above diagram, we see that the overall correlations over 10-year period among 
 GDP growth rate, Inflation rate by CPI, Gold spot price, Hang Seng Index, USD/HKD and Hong Kong 10-year government bond yield. 
@@ -150,8 +149,6 @@ The correlations seem to be relatively small because some strongly positive corr
 
 Now, we look into the correlations during the 4 cycle phases from June 2019 to January 2022.
  
- 
- 
 
  
 From the heatmap diagrams, we discover that there are more deep colors, either strongly positive or strongly negative.
@@ -159,11 +156,6 @@ From the heatmap diagrams, we discover that there are more deep colors, either s
 For example, GDP growth rate becomes strongly positive correlated (+0.85) with inflation rate by CPI in phase 1. The correlation then becomes moderately negative (-0.46) in phase 2. No correlation (0) is in phase 3 and moderately negative (-0.38) is in phase 4.
  
 Conclusion
-
-
-
-
-
  
 
 In summary, during the observation period of business cycle from June 2019 to January 2022, we find that gold price kept going up almost throughout the 4 phases, especially performed better in phases 1 and 2. We believe that gold price is affected by global economic factors such as war affairs and quantitative easing in USA and other countries. It seems not significantly to be reflected by the sole regional market factor.
